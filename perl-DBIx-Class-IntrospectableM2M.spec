@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	DBIx
 %define	pnam	Class-IntrospectableM2M
 Summary:	DBIx::Class::IntrospectableM2M - Introspect many-to-many shortcuts
