@@ -7,13 +7,13 @@
 Summary:	DBIx::Class::IntrospectableM2M - Introspect many-to-many shortcuts
 #Summary(pl.UTF-8):	
 Name:		perl-DBIx-Class-IntrospectableM2M
-Version:	0.001001
-Release:	2
+Version:	0.001002
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/DBIx/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	9c05959fdb632062ec827ec0c7335eae
+Source0:	https://www.cpan.org/modules/by-module/DBIx/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	2462b3115e8f0a71490fd8e219aa79f0
 URL:		http://search.cpan.org/dist/DBIx-Class-IntrospectableM2M/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
